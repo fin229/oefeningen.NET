@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vraagexamen2/1.0.0": {
+        "runtime": {
+          "vraagexamen2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vraagexamen2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

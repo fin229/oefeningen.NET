@@ -1,0 +1,14 @@
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.exe
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.deps.json
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.runtimeconfig.json
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.runtimeconfig.dev.json
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.dll
+C:\Users\Fineas\source\repos\vraagexamen2\bin\Debug\netcoreapp3.1\vraagexamen2.pdb
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.dll
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.pdb
+C:\Users\Fineas\source\repos\vraagexamen2\obj\Debug\netcoreapp3.1\vraagexamen2.genruntimeconfig.cache
