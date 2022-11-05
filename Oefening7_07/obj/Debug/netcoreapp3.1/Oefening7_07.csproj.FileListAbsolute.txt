@@ -1,0 +1,14 @@
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.exe
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.deps.json
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.runtimeconfig.json
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.runtimeconfig.dev.json
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.dll
+C:\Users\Fineas\source\repos\Oefening7_07\bin\Debug\netcoreapp3.1\Oefening7_07.pdb
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.dll
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.pdb
+C:\Users\Fineas\source\repos\Oefening7_07\obj\Debug\netcoreapp3.1\Oefening7_07.genruntimeconfig.cache
